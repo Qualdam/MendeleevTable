@@ -87,7 +87,7 @@
       "name_long": "Бор",
       "number": 5,
       "m": 10.81,
-      "type": "Полуметал",
+      "type": "Полуметалл",
       "energy": "2, 3",
       "created": "1808",
       "electoron": [2, 3],
@@ -147,6 +147,571 @@
       "created": "1898",
       "electoron": [2, 8],
       "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BE%D0%BD"
+    }
+  ],
+  [
+    {
+      "name": "Na",
+      "name_long": "Натрий",
+      "number": 11,
+      "m": 22.990,
+      "type": "Щелочные металлы",
+      "energy": "2, 8, 1",
+      "created": "1807",
+      "electoron": [2, 8, 1],
+      "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%82%D1%80%D0%B8%D0%B9"
+    }, {
+      "name": "Mg",
+      "name_long": "Магний",
+      "number": 12,
+      "m": 24.305,
+      "type": "Щёлочноземельные металлы",
+      "energy": "2, 8, 2",
+      "created": "1755",
+      "electoron": [2, 8, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D0%B9"
+    }, {
+      "name": "Al",
+      "name_long": "Алюминий",
+      "number": 13,
+      "m": 26.981,
+      "type": "Постпереходные металлы",
+      "energy": "2, 8, 3",
+      "created": "1797",
+      "electoron": [2, 8, 3],
+      "link": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8E%D0%BC%D0%B8%D0%BD%D0%B8%D0%B9"
+    }, {
+      "name": "Si",
+      "name_long": "Кремний",
+      "number": 14,
+      "m": 28.085,
+      "type": "Полуметалл",
+      "energy": "2, 8, 4",
+      "created": "1824",
+      "electoron": [2, 8, 4],
+      "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D0%BC%D0%BD%D0%B8%D0%B9"
+    }, {
+      "name": "P",
+      "name_long": "Фосфор",
+      "number": 15,
+      "m": 30.974,
+      "type": "Неметалл",
+      "energy": "2, 8, 5",
+      "created": "1669",
+      "electoron": [2, 8, 5],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%81%D1%84%D0%BE%D1%80"
+    }, {
+    "name": "S",
+    "name_long": "Сера",
+    "number": 15,
+    "m": 30.974,
+    "type": "Неметалл",
+    "energy": "2, 8, 6",
+    "created": "1730",
+    "electoron": [2, 8, 6],
+    "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B0"
+   }, {
+      "name": "Cl",
+      "name_long": "Хлор",
+      "number": 17,
+      "m": 35.45,
+      "type": "Неметалл",
+      "energy": "2, 8, 7",
+      "created": "1774",
+      "electoron": [2, 8, 7],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BB%D0%BE%D1%80"
+    },  {
+      "name": "Ar",
+      "name_long": "Аргон",
+      "number": 18,
+      "m": 39.948,
+      "type": "Благородный газ",
+      "energy": "2, 8, 8",
+      "created": "1894",
+      "electoron": [2, 8, 8],
+      "link": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B3%D0%BE%D0%BD"
+    }
+  ], [
+    {
+      "name": "K",
+      "name_long": "Калий",
+      "number": 19,
+      "m": 39.098,
+      "type": "Щелочные металлы",
+      "energy": "2, 8, 8, 1",
+      "created": "1807",
+      "electoron": [2, 8, 8, 1],
+      "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D0%B9"
+    }, {
+      "name": "Ca",
+      "name_long": "Кальций",
+      "number": 20,
+      "m": 40.078,
+      "type": "Щёлочноземельные металлы",
+      "energy": "2, 8, 8, 2",
+      "created": "1808",
+      "electoron": [2, 8, 8, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D1%8C%D1%86%D0%B8%D0%B9"
+    }, {
+      "name": "Sc",
+      "name_long": "Скандий",
+      "number": 21,
+      "m": 44.956,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 9, 2",
+      "created": "1879",
+      "electoron": [2, 8, 9, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B9"
+    }, {
+      "name": "Ti",
+      "name_long": "Титан",
+      "number": 22,
+      "m": 47.867,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 10, 2",
+      "created": "1791",
+      "electoron": [2, 8, 10, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D1%82%D0%B0%D0%BD_(%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82)"
+    }, {
+      "name": "V",
+      "name_long": "Ванадий",
+      "number": 23,
+      "m": 50.942,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 11, 2",
+      "created": "1801",
+      "electoron": [2, 8, 11, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BD%D0%B0%D0%B4%D0%B8%D0%B9"
+    }, {
+      "name": "Cr",
+      "name_long": "Хром",
+      "number": 24,
+      "m": 51.996,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 13, 1",
+      "created": "1797",
+      "electoron": [2, 8, 13, 1 ],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BC"
+    }, {
+      "name": "Mn",
+      "name_long": "Марганец",
+      "number": 25,
+      "m": 54.938,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 13, 2",
+      "created": "1774",
+      "electoron": [2, 8, 13, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D0%BD%D0%B5%D1%86"
+    }, {
+      "name": "Fe",
+      "name_long": "Железо",
+      "number": 26,
+      "m": 55.845,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 14, 2",
+      "created": "1731",
+      "electoron": [2, 8, 14, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BE"
+    }, {
+      "name": "Co",
+      "name_long": "Кобальт",
+      "number": 26,
+      "m": 58.933,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 15, 2",
+      "created": "1735",
+      "electoron": [2, 8, 15, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D1%82"
+    }, {
+      "name": "Ni",
+      "name_long": "Никель",
+      "number": 28,
+      "m": 58.693,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 16, 2",
+      "created": "1751",
+      "electoron": [2, 8, 16, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D0%B5%D0%BB%D1%8C"
+    }
+  ], [
+    {
+      "name": "Cu",
+      "name_long": "Медь",
+      "number": 29,
+      "m": 63.546,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 18, 1",
+      "created": "1737",
+      "electoron": [2, 8, 18, 1],
+      "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B4%D1%8C"
+    }, {
+      "name": "Zn",
+      "name_long": "Цинк",
+      "number": 30,
+      "m": 65.38  ,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 18, 2",
+      "created": "1500",
+      "electoron": [2, 8, 18, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D0%BD%D0%BA"
+    }, {
+      "name": "Ga",
+      "name_long": "Галлий",
+      "number": 31,
+      "m": 69.723,
+      "type": "Постпереходные металлы",
+      "energy": "2, 8, 18, 3",
+      "created": "1875",
+      "electoron": [2, 8, 18, 3],
+      "link": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%BB%D0%BB%D0%B8%D0%B9"
+    }, {
+      "name": "Ge",
+      "name_long": "Германий",
+      "number": 32,
+      "m": 72.630,
+      "type": "Полуметаллы",
+      "energy": "2, 8, 18, 4",
+      "created": "1886",
+      "electoron": [2, 8, 18, 4],
+      "link": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B9"
+    }, {
+      "name": "As",
+      "name_long": "Мышьяк",
+      "number": 33,
+      "m": 74.922,
+      "type": "Полуметаллы",
+      "energy": "2, 8, 18, 5",
+      "created": "1250",
+      "electoron": [2, 8, 18, 5],
+      "link": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8B%D1%88%D1%8C%D1%8F%D0%BA"
+    }, {
+      "name": "Se",
+      "name_long": "Селен",
+      "number": 34,
+      "m": 78.971,
+      "type": "Неметалл",
+      "energy": "2, 8, 18, 6",
+      "created": "1817",
+      "electoron": [2, 8, 18, 6],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D0%B5%D0%BD"
+    }, {
+      "name": "Br",
+      "name_long": "Бром",
+      "number": 35,
+      "m": 79.904,
+      "type": "Неметалл",
+      "energy": "2, 8, 18, 7",
+      "created": "1826",
+      "electoron": [2, 8, 18, 7],
+      "link": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D0%BC"
+    },{
+      "name": "Kr",
+      "name_long": "Криптон",
+      "number": 36,
+      "m": 83.798,
+      "type": "Благородный газ",
+      "energy": "2, 8, 18, 8",
+      "created": "1898",
+      "electoron": [2, 8, 18, 8],
+      "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%BD"
+    }
+  ], [
+    {
+      "name": "Rb",
+      "name_long": "Рубидий",
+      "number": 37,
+      "m": 85.468,
+      "type": "Щелочные металлы",
+      "energy": "2, 8, 18, 8, 1",
+      "created": "1861",
+      "electoron": [2, 8, 18, 8, 1],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D0%B1%D0%B8%D0%B4%D0%B8%D0%B9"
+    }, {
+      "name": "Sr",
+      "name_long": "Стронций",
+      "number": 38,
+      "m": 87.62,
+      "type": "Щёлочноземельные металлы",
+      "energy": "2, 8, 18, 8, 2",
+      "created": "1790",
+      "electoron": [2, 8, 18, 8, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%BE%D0%BD%D1%86%D0%B8%D0%B9"
+    }, {
+      "name": "Y",
+      "name_long": "Иттрий",
+      "number": 39,
+      "m": 88.906,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 18, 9, 2",
+      "created": "1794",
+      "electoron": [2, 8, 18, 9, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%98%D1%82%D1%82%D1%80%D0%B8%D0%B9"
+    }, {
+      "name": "Zr",
+      "name_long": "Цирконий",
+      "number": 40,
+      "m": 91.224,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 18, 10, 2",
+      "created": "1789",
+      "electoron": [2, 8, 18, 10, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%80%D0%BA%D0%BE%D0%BD%D0%B8%D0%B9"
+    }, {
+      "name": "Nb",
+      "name_long": "Ниобий",
+      "number": 41,
+      "m": 92.906,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 18, 12, 1",
+      "created": "1801",
+      "electoron": [2, 8, 18, 12, 1],
+      "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BE%D0%B1%D0%B8%D0%B9"
+    }, {
+      "name": "Mo",
+      "name_long": "Молибиден",
+      "number": 42,
+      "m": 95.95,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 18, 13, 1",
+      "created": "1781",
+      "electoron": [2, 8, 18, 13, 1],
+      "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D0%B8%D0%B1%D0%B4%D0%B5%D0%BD"
+    }, {
+      "name": "Tc",
+      "name_long": "Технеций",
+      "number": 43,
+      "m": 98,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 18, 13, 2",
+      "created": "1937",
+      "electoron": [2, 8, 18, 13, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%85%D0%BD%D0%B5%D1%86%D0%B8%D0%B9"
+    }, {
+      "name": "Ru",
+      "name_long": "Рутений",
+      "number": 44,
+      "m": 101.07,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 18, 15, 1",
+      "created": "1844",
+      "electoron": [2, 8, 18, 15, 1],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%82%D0%B5%D0%BD%D0%B8%D0%B9"
+    }, {
+      "name": "Rh",
+      "name_long": "Родий",
+      "number": 45,
+      "m": 102.91,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 18, 15, 1",
+      "created": "1803",
+      "electoron": [2, 8, 18, 15, 1],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B4%D0%B8%D0%B9"
+    }, {
+      "name": "Pd",
+      "name_long": "Палладий",
+      "number": 46,
+      "m": 106.42,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 18, 18",
+      "created": "1803",
+      "electoron": [2, 8, 18, 18],
+      "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%BB%D0%B0%D0%B4%D0%B8%D0%B9"
+    }
+  ], [
+    {
+      "name": "Ag",
+      "name_long": "Серебро",
+      "number": 47,
+      "m": 107.87,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 18, 18, 1",
+      "created": "1809",
+      "electoron": [2, 8, 18, 18, 1],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D0%BE"
+    }, {
+      "name": "Cd",
+      "name_long": "Кадмий",
+      "number": 48,
+      "m": 112.41,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 18, 18, 2",
+      "created": "1817",
+      "electoron": [2, 8, 18, 18, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B4%D0%BC%D0%B8%D0%B9"
+    }, {
+      "name": "In",
+      "name_long": "Индий",
+      "number": 49,
+      "m": 114.82,
+      "type": "Постпереходные металлы",
+      "energy": "2, 8, 18, 18, 3",
+      "created": "1863",
+      "electoron": [2, 8, 18, 18, 3],
+      "link": "https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%B4%D0%B8%D0%B9"
+    }, {
+      "name": "Sn",
+      "name_long": "Олово",
+      "number": 50,
+      "m": 118.71,
+      "type": "Постпереходные металлы",
+      "energy": "2, 8, 18, 18, 4",
+      "created": "1573",
+      "electoron": [2, 8, 18, 18, 4],
+      "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BB%D0%BE%D0%B2%D0%BE"
+    }, {
+      "name": "Sb",
+      "name_long": "Сурьма",
+      "number": 51,
+      "m": 121.76,
+      "type": "Полуметаллы",
+      "energy": "2, 8, 18, 18, 5",
+      "created": "1587",
+      "electoron": [2, 8, 18, 18, 5],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D1%80%D1%8C%D0%BC%D0%B0"
+    }, {
+      "name": "Te",
+      "name_long": "Теллур",
+      "number": 52,
+      "m": 127.60 ,
+      "type": "Полуметаллы",
+      "energy": "2, 8, 18, 18, 6",
+      "created": "1783",
+      "electoron": [2, 8, 18, 18, 6],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BB%D0%BB%D1%83%D1%80"
+    }, {
+      "name": "I",
+      "name_long": "Иод",
+      "number": 53,
+      "m": 126.90,
+      "type": "Неметалл",
+      "energy": "2, 8, 18, 18, 7",
+      "created": "1811",
+      "electoron": [2, 8, 18, 18, 7],
+      "link": "https://ru.wikipedia.org/wiki/%D0%98%D0%BE%D0%B4"
+    }, {
+      "name": "Xe",
+      "name_long": "Ксенон",
+      "number": 54,
+      "m": 131.29,
+      "type": "Благородный газ",
+      "energy": "2, 8, 18, 18, 8",
+      "created": "1898",
+      "electoron": [2, 8, 18, 18, 8],
+      "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%81%D0%B5%D0%BD%D0%BE%D0%BD"
+    }
+  ], [
+    {
+      "name": "Cs",
+      "name_long": "Цезий",
+      "number": 55,
+      "m": 132.91,
+      "type": "Щелочные металлы",
+      "energy": "2, 8, 18, 18, 8, 1",
+      "created": "1860",
+      "electoron": [2, 8, 18, 18, 8, 1],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D0%B7%D0%B8%D0%B9"
+    }, {
+      "name": "Ba",
+      "name_long": "Барий",
+      "number": 56,
+      "m": 137.33,
+      "type": "Щёлочноземельные металлы",
+      "energy": "2, 8, 18, 18, 8, 2",
+      "created": "1808",
+      "electoron": [2, 8, 18, 18, 8, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%B8%D0%B9"
+    }, {
+      "name": "La",
+      "name_long": "Лантан",
+      "number": 57,
+      "m": 138.91,
+      "type": "Лантаноиды",
+      "energy": "2, 8, 18, 18, 9, 2",
+      "created": "1839",
+      "electoron": [2, 8, 18, 18, 9, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BD%D1%82%D0%B0%D0%BD"
+    }, {
+      "name": "Hf",
+      "name_long": "Гафний",
+      "number": 72,
+      "m": 178.49,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 18, 32, 10, 2",
+      "created": "1923",
+      "electoron": [2, 8, 18, 32, 10, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%84%D0%BD%D0%B8%D0%B9"
+    }, {
+      "name": "Ta",
+      "name_long": "Тантал",
+      "number": 73,
+      "m": 180.95,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 18, 32, 11, 2",
+      "created": "1802",
+      "electoron": [2, 8, 18, 32, 11, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BD%D1%82%D0%B0%D0%BB_(%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82)"
+    }, {
+      "name": "W",
+      "name_long": "Вольфрам",
+      "number": 74,
+      "m": 183.83,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 18, 32, 12, 2",
+      "created": "1783",
+      "electoron": [2, 8, 18, 32, 12, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC"
+    }, {
+      "name": "Re",
+      "name_long": "Рений",
+      "number": 75,
+      "m": 186.21,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 18, 32, 13, 2",
+      "created": "1925",
+      "electoron": [2, 8, 18, 32, 13, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BD%D0%B8%D0%B9"
+    }, {
+      "name": "Os",
+      "name_long": "Осмий",
+      "number": 76,
+      "m": 190.23,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 18, 32, 14, 2",
+      "created": "1803",
+      "electoron": [2, 8, 18, 32, 14, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D0%BC%D0%B8%D0%B9"
+    }, {
+      "name": "Ir",
+      "name_long": "Иридий",
+      "number": 77,
+      "m": 192.22,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 18, 32, 15, 2",
+      "created": "1803",
+      "electoron": [2, 8, 18, 32, 15, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%98%D1%80%D0%B8%D0%B4%D0%B8%D0%B9"
+    }, {
+      "name": "Pt",
+      "name_long": "Платина",
+      "number": 78,
+      "m": 195.08,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 18, 32, 17, 1",
+      "created": "1735",
+      "electoron": [2, 8, 18, 32, 17, 1],
+      "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B0"
+    }
+  ], [
+    {
+      "name": "Au",
+      "name_long": "Золото",
+      "number": 78,
+      "m": 196.97,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 18, 32, 18, 1",
+      "created": "1439",
+      "electoron": [2, 8, 18, 32, 18, 1],
+      "link": "https://ru.wikipedia.org/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE"
     }
   ]
 ]
