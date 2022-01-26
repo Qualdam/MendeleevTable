@@ -6,6 +6,9 @@ const map = new (require('../db'))(path.join(__dirname, '..', 'map.json'));
 const periods = [
     'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII'
 ];
+const spans = [
+    1, 1, 1, 1, 1, 1, 1, 2
+];
 const t = db.get();
 const t2 = map.get();
 const js = {}, ts = [];
@@ -20,7 +23,7 @@ for (let i = 0; i < t.length; ++i) {
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { table: ts, periods, json: JSON.stringify(js) });
+    res.render('index', { table: ts, periods, json: JSON.stringify(js), spans });
 });
 
 module.exports = router;
