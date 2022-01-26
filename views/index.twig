@@ -71,9 +71,11 @@
     </h2>
     <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div style="font-size: 16px;">
-                <div>Серии - ${s.type}</div>
+                <div>Тип элемента - ${s.type}</div>
                 <div>Энергетические уровни - ${s.energy}</div>
-                <div>Тема раздела - ${s.theme}</div>
+                <div>Вес элемента - ${s.m}</div>
+                <div>Заряд ядра - ${s.number}</div>
+                <div>${s.comment}</div>
             </div>
     </div>
   </div>
@@ -85,7 +87,8 @@
     </h2>
     <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
       <div style="font-size: 16px;">
-                <div>Открыт - ${s.created}</div>
+                <div>Открыт в ${s.created} году</div>
+                <div>${s.history}</div>
             </div>
     </div>
   </div>
@@ -97,8 +100,7 @@
     </h2>
     <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
       <div style="font-size: 16px;">
-
-                <div>undefined</div>
+                <div>${s.facts}</div>
             </div>
     </div>
   </div>
@@ -110,7 +112,7 @@
     </h2>
     <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
       <div style="font-size: 16px;">
-                <div>где используется и кем</div>
+                <div>${s.used}</div>
             </div>
     </div>
   </div>
@@ -122,7 +124,7 @@
     </h2>
     <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingFive" data-bs-parent="#accordionFlushExample">
       <div style="font-size: 16px;">
-                <div><a href="${s.link}">Ссылка на википедии</a></div>
+                <div><a href="${s.link}">Статья на Википедии</a></div>
      </div>
     </div>
   </div>
