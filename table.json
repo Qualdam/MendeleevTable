@@ -705,13 +705,268 @@
     {
       "name": "Au",
       "name_long": "Золото",
-      "number": 78,
+      "number": 79,
       "m": 196.97,
       "type": "Переходные металлы",
       "energy": "2, 8, 18, 32, 18, 1",
       "created": "1439",
       "electoron": [2, 8, 18, 32, 18, 1],
       "link": "https://ru.wikipedia.org/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE"
+    }, {
+      "name": "Hg",
+      "name_long": "Ртуть",
+      "number": 80,
+      "m": 200.59,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 18, 32, 18, 2",
+      "created": "1500",
+      "electoron": [2, 8, 18, 32, 18, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A0%D1%82%D1%83%D1%82%D1%8C"
+    }, {
+      "name": "Tl",
+      "name_long": "Таллий  ",
+      "number": 81,
+      "m": 204.38,
+      "type": "Постпереходные металлы",
+      "energy": "2, 8, 18, 32, 18, 3",
+      "created": "1861",
+      "electoron": [2, 8, 18, 32, 18, 3],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BB%D0%BB%D0%B8%D0%B9"
+    }, {
+      "name": "Pb",
+      "name_long": "Свинец",
+      "number": 82,
+      "m": 207.2,
+      "type": "Постпереходные металлы",
+      "energy": "2, 8, 18, 32, 18, 4",
+      "created": "1389",
+      "electoron": [2, 8, 18, 32, 18, 4],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B8%D0%BD%D0%B5%D1%86"
+    }, {
+      "name": "Bi",
+      "name_long": "Висмут",
+      "number": 83,
+      "m": 208.98,
+      "type": "Постпереходные металлы",
+      "energy": "2, 8, 18, 32, 18, 5",
+      "created": "1400",
+      "electoron": [2, 8, 18, 32, 18, 5],
+      "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%81%D0%BC%D1%83%D1%82"
+    }, {
+      "name": "Po",
+      "name_long": "Полоний",
+      "number": 84,
+      "m": 209,
+      "type": "Постпереходные металлы",
+      "energy": "2, 8, 18, 32, 18, 6",
+      "created": "1898",
+      "electoron": [2, 8, 18, 32, 18, 6],
+      "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%BE%D0%BD%D0%B8%D0%B9"
+    }, {
+      "name": "At",
+      "name_long": "Астат",
+      "number": 85,
+      "m": 210,
+      "type": "Полуметалл",
+      "energy": "2, 8, 18, 32, 18, 7",
+      "created": "1940",
+      "electoron": [2, 8, 18, 32, 18, 7],
+      "link": "https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%82%D0%B0%D1%82"
+    }, {
+      "name": "Rn",
+      "name_long": "Радон",
+      "number": 86,
+      "m": 222,
+      "type": "Благородный газ",
+      "energy": "2, 8, 18, 32, 18, 8",
+      "created": "1900",
+      "electoron": [2, 8, 18, 32, 18, 8],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D0%BE%D0%BD"
+    }
+  ], [
+    {
+      "name": "Fr",
+      "name_long": "Франций",
+      "number": 87,
+      "m": 223,
+      "type": "Щелочные металлы",
+      "energy": "2, 8, 18, 32, 18, 8, 1",
+      "created": "1939",
+      "electoron": [2, 8, 18, 32, 18, 8, 1],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B9"
+    }, {
+      "name": "Ra",
+      "name_long": "Радий",
+      "number": 88,
+      "m": 226,
+      "type": "Щёлочноземельные металлы",
+      "energy": "2, 8, 18, 32, 18, 8, 2",
+      "created": "1898",
+      "electoron": [2, 8, 18, 32, 18, 8, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D0%B8%D0%B9"
+    }, {
+      "name": "Ac",
+      "name_long": "Актиний",
+      "number": 89,
+      "m": 227,
+      "type": "Актиноиды",
+      "energy": "2, 8, 18, 32, 18, 9, 2",
+      "created": "1899",
+      "electoron": [2, 8, 18, 32, 18, 9, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D1%82%D0%B8%D0%BD%D0%B8%D0%B9"
+    }, {
+      "name": "Rf",
+      "name_long": "Резерфордий",
+      "number": 104,
+      "m": 267,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 18, 32, 32, 10, 2",
+      "created": "1964",
+      "electoron": [2, 8, 18, 32, 32, 10, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D1%84%D0%BE%D1%80%D0%B4%D0%B8%D0%B9"
+    }, {
+      "name": "Db",
+      "name_long": "Дубний",
+      "number": 105,
+      "m": 268,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 18, 32, 32, 11, 2",
+      "created": "1967",
+      "electoron": [2, 8, 18, 32, 32, 11, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B1%D0%BD%D0%B8%D0%B9"
+    }, {
+      "name": "Sg",
+      "name_long": "Сиборгий",
+      "number": 106,
+      "m": 269,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 18, 32, 32, 12, 2",
+      "created": "1974",
+      "electoron": [2, 8, 18, 32, 32, 12, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B1%D0%BE%D1%80%D0%B3%D0%B8%D0%B9"
+    }, {
+      "name": "Bh",
+      "name_long": "Борий",
+      "number": 107,
+      "m": 270,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 18, 32, 32, 13, 2",
+      "created": "1981",
+      "electoron": [2, 8, 18, 32, 32, 13, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B8%D0%B9"
+    }, {
+      "name": "Hs",
+      "name_long": "Хассий",
+      "number": 108,
+      "m": 277,
+      "type": "Переходные металлы",
+      "energy": "2, 8, 18, 32, 32, 14, 2",
+      "created": "1984",
+      "electoron": [2, 8, 18, 32, 32, 14, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%81%D1%81%D0%B8%D0%B9"
+    }, {
+      "name": "Mt",
+      "name_long": "Мейтнерий",
+      "number": 109,
+      "m": 278,
+      "type": "N/A",
+      "energy": "2, 8, 18, 32, 32, 15, 2",
+      "created": "1982",
+      "electoron": [2, 8, 18, 32, 32, 15, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B9%D1%82%D0%BD%D0%B5%D1%80%D0%B8%D0%B9"
+    }, {
+      "name": "Ds",
+      "name_long": "Дармштадтий",
+      "number": 110,
+      "m": 279,
+      "type": "N/A",
+      "energy": "2, 8, 18, 32, 32, 17, 1",
+      "created": "1994",
+      "electoron": [2, 8, 18, 32, 32, 17, 1],
+      "link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D1%80%D0%BC%D1%88%D1%82%D0%B0%D0%B4%D1%82%D0%B8%D0%B9"
+    }
+  ],
+  [
+    {
+      "name": "Rg",
+      "name_long": "Рентгений",
+      "number": 111,
+      "m": 282,
+      "type": "N/A",
+      "energy": "2, 8, 18, 32, 32, 17, 2",
+      "created": "1994",
+      "electoron": [2, 8, 18, 32, 32, 17, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BD%D1%82%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9"
+    }, {
+      "name": "Cn",
+      "name_long": "Коперниций",
+      "number": 112,
+      "m": 285,
+      "type": "N/A",
+      "energy": "2, 8, 18, 32, 32, 18, 2",
+      "created": "1996",
+      "electoron": [2, 8, 18, 32, 32, 18, 2],
+      "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BF%D0%B5%D1%80%D0%BD%D0%B8%D1%86%D0%B8%D0%B9"
+    }, {
+      "name": "Nh",
+      "name_long": "Нихоний",
+      "number": 113,
+      "m": 286,
+      "type": "N/A",
+      "energy": "2, 8, 18, 32, 32, 18, 3",
+      "created": "2004",
+      "electoron": [2, 8, 18, 32, 32, 18, 3],
+      "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D1%85%D0%BE%D0%BD%D0%B8%D0%B9"
+    }, {
+      "name": "Fl",
+      "name_long": "Флейровий",
+      "number": 114,
+      "m": 289,
+      "type": "N/A",
+      "energy": "2, 8, 18, 32, 32, 18, 4",
+      "created": "1998",
+      "electoron": [2, 8, 18, 32, 32, 18, 4],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BB%D0%B5%D1%80%D0%BE%D0%B2%D0%B8%D0%B9"
+    }, {
+      "name": "Mc",
+      "name_long": "Московский",
+      "number": 115,
+      "m": 290,
+      "type": "N/A",
+      "energy": "2, 8, 18, 32, 32, 18, 5",
+      "created": "2004",
+      "electoron": [2, 8, 18, 32, 32, 18, 5],
+      "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9"
+    }, {
+      "name": "Lv",
+      "name_long": "Ливерморий",
+      "number": 116,
+      "m": 293,
+      "type": "N/A",
+      "energy": "2, 8, 18, 32, 32, 18, 6",
+      "created": "2000",
+      "electoron": [2, 8, 18, 32, 32, 18, 6],
+      "link": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%B2%D0%B5%D1%80%D0%BC%D0%BE%D1%80%D0%B8%D0%B9"
+    }, {
+      "name": "Ts",
+      "name_long": "Теннессин",
+      "number": 117,
+      "m": 294,
+      "type": "N/A",
+      "energy": "2, 8, 18, 32, 32, 18, 7",
+      "created": "2010",
+      "electoron": [2, 8, 18, 32, 32, 18, 7],
+      "link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B5%D1%81%D1%81%D0%B8%D0%BD"
+    }, {
+      "name": "Og",
+      "name_long": "Оганесон",
+      "number": 118,
+      "m": 294,
+      "type": "N/A",
+      "energy": "2, 8, 18, 32, 32, 18, 8",
+      "created": "2006",
+      "electoron": [2, 8, 18, 32, 32, 18, 8],
+      "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B3%D0%B0%D0%BD%D0%B5%D1%81%D0%BE%D0%BD"
     }
   ]
 ]
